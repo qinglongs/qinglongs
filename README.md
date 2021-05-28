@@ -7,10 +7,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on chengdu
 - 🌱 I’m currently learning javascript
-<!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with ...
-<!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: 924229679@qq.com
-<!-- - 😄 Pronouns: xiaolong -->
-<!-- - ⚡ Fun fact: ... -->
-
